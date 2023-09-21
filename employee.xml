@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+ <employee>
+    <firstname>Anna</firstname>
+    <lastname>benny</lastname>
+    <dob>2001-10-19</dob>
+    <gender>female</gender>
+    <contactno>82819900</contactno>
+    <email>anna@gmail.com</email>
+    <position>accountant</position>
+    <salary>100000.0</salary>
+ </employee>
+ <employee>
+    <firstname>Paulu</firstname>
+    <lastname>jose</lastname>
+    <dob>1995-09-24</dob>
+    <gender>male</gender>
+    <contactno>5792047833</contactno>
+    <email>paulu@gmail.com</email>
+    <position>Designer</position>
+    <salary>30000.50</salary>
+ </employee>
+ <employee>
+    <firstname>Mega</firstname>
+    <lastname>ken</lastname>
+    <dob>1997-05-20</dob>
+    <gender>female</gender>
+    <contactno>648392699</contactno>
+    <email>mega@gmail.com</email>
+    <position>Developer</position>
+    <salary>2400000.50</salary>
+ </employee>
+ </employees>
